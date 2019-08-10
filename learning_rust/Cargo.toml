@@ -1,11 +1,7 @@
 [package]
-name = "iron-gcd"
+name = "learning_rust"
 version = "0.1.0"
 authors = ["sdual <shr.nrht.0623@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-iron = "0.5.1"
-mime = "0.2.3"
-router = "0.5.1"
-urlencoded = "0.5.0"
